@@ -7,7 +7,8 @@ This section explains the analog front-end of a USB microphone setup and its rol
 
 **Frequency Response**
 <img width="1600" height="659" alt="image" src="https://github.com/user-attachments/assets/1f6e50e5-a9d7-4725-8894-abf08ca53b02" />
-**simulink output**
+
+**Simulink Output**
 <img width="488" height="347" alt="image" src="https://github.com/user-attachments/assets/06a20313-8821-4b8e-a799-315b99aa60ad" />
 **Highpass filter using the opamp**
 <img width="2138" height="1731" alt="image" src="https://github.com/user-attachments/assets/5a178dc7-28fa-4f51-9bcf-c14e440a626d" />
