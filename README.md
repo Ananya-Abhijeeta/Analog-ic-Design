@@ -23,7 +23,7 @@ This section explains the analog front-end of a USB microphone setup and its rol
 ***Current Mirror***
 ![Circuit 1](https://github.com/user-attachments/assets/0d4c933b-2988-44b6-8f90-595b1ee7f4c0)
 ## Output
-**Verified three modes of operation: cutoff, triode, and saturation.
+Verified three modes of operation: cutoff, triode, and saturation.
 
 Visualized how VGS modulates drain current.
 
@@ -31,7 +31,7 @@ Confirmed square-law relationship in saturation (linear √ID vs VGS).
 
 Demonstrated log-linear behavior in subthreshold region.
 
-Learned to interpret raw Ngspice waveforms for device-level analysis**
+Learned to interpret raw Ngspice waveforms for device-level analysis
 
 
 
