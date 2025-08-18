@@ -2,7 +2,6 @@
 Internship summary on designing analog ICs—covering topics like USB-MIDI microphone design, preamplifier design, transistor-level circuits, simulations via ngspice/xschem, PCB testing, and more.
 This section explains the analog front-end of a USB microphone setup and its role in signal conditioning and conversion!
 Thevinin Equivalent Model of the microphone
+![circuit 4](https://github.com/user-attachments/assets/ce24a5a1-87ca-46cc-b831-d531d685986e)
 
-
-![Uploading circuit 4.jpg…]()
 
