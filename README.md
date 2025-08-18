@@ -19,6 +19,21 @@ This section explains the analog front-end of a USB microphone setup and its rol
 **Highpass filter using the opamp**
 <img width="2138" height="1731" alt="image" src="https://github.com/user-attachments/assets/5a178dc7-28fa-4f51-9bcf-c14e440a626d" />
 ***Siliwiz simulation***
+![SILWIZ](https://github.com/user-attachments/assets/07681676-a6fd-4627-9134-3fa203636be2)
+***Current Mirror***
+![Circuit 1](https://github.com/user-attachments/assets/0d4c933b-2988-44b6-8f90-595b1ee7f4c0)
+## Output##
+**Verified three modes of operation: cutoff, triode, and saturation.
+
+Visualized how VGS modulates drain current.
+
+Confirmed square-law relationship in saturation (linear √ID vs VGS).
+
+Demonstrated log-linear behavior in subthreshold region.
+
+Learned to interpret raw Ngspice waveforms for device-level analysis**
+
+
 
 
 
