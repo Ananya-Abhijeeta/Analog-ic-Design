@@ -1,6 +1,12 @@
-<img width="1120" height="542" alt="Screenshot 2025-08-18 193013" src="https://github.com/user-attachments/assets/60ca01e8-03dc-4961-9c69-ebde01eb2603" /># Analog-ic-Design
+# Analog-ic-Design
+
 Internship summary on designing analog ICs—covering topics like USB-MIDI microphone design, preamplifier design, transistor-level circuits, simulations via ngspice/xschem, PCB testing, and more.
 This section explains the analog front-end of a USB microphone setup and its role in signal conditioning and conversion!
+
+
+<img width="1120" height="542" alt="Screenshot 2025-08-18 193013" src="https://github.com/user-attachments/assets/60ca01e8-03dc-4961-9c69-ebde01eb2603" />
+
+
 **thevinin equivalent model of the microphone**
 <img width="1415" height="708" alt="image" src="https://github.com/user-attachments/assets/c9ae9615-3b44-43bc-9f12-913bad966530" />
 
