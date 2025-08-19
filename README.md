@@ -22,6 +22,8 @@ This section explains the analog front-end of a USB microphone setup and its rol
 <img width="488" height="347" alt="image" src="https://github.com/user-attachments/assets/06a20313-8821-4b8e-a799-315b99aa60ad" />
 **Highpass filter using the opamp**
 <img width="2138" height="1731" alt="image" src="https://github.com/user-attachments/assets/5a178dc7-28fa-4f51-9bcf-c14e440a626d" />
+<img width="2159" height="2289" alt="image" src="https://github.com/user-attachments/assets/736a2c65-3647-4545-802a-cd32b48f4aca" />
+
 ***Siliwiz simulation***
 ![SILWIZ](https://github.com/user-attachments/assets/07681676-a6fd-4627-9134-3fa203636be2)
 ***Current Mirror***
