@@ -22,6 +22,9 @@ This section explains the analog front-end of a USB microphone setup and its rol
 ![SILWIZ](https://github.com/user-attachments/assets/07681676-a6fd-4627-9134-3fa203636be2)
 ***Current Mirror***
 ![Circuit 1](https://github.com/user-attachments/assets/0d4c933b-2988-44b6-8f90-595b1ee7f4c0)
+**Schematic of opamp model**
+<img width="1848" height="872" alt="image" src="https://github.com/user-attachments/assets/a405190e-0c58-471d-b670-e2732e55eabb" />
+
 ## Output
 Verified three modes of operation: cutoff, triode, and saturation.
 
