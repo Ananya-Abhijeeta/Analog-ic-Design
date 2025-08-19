@@ -38,8 +38,6 @@ This section explains the analog front-end of a USB microphone setup and its rol
 <img width="1693" height="880" alt="image" src="https://github.com/user-attachments/assets/e81cdba8-92b0-4e5a-9a1a-b288d15e9465" />
 **Small Signal Analysis**
 <img width="1896" height="876" alt="image" src="https://github.com/user-attachments/assets/c8eebe85-efad-4e14-b0c6-00661968001f" />
-Waveform of MEMS Microphone
-<img width="4160" height="3112" alt="image" src="https://github.com/user-attachments/assets/3cc74579-9a15-4885-8d0b-93a12d3dc407" />
 
 
 
@@ -48,16 +46,8 @@ Waveform of MEMS Microphone
 
 
 
-## Output
-Verified three modes of operation: cutoff, triode, and saturation.
 
-Visualized how VGS modulates drain current.
 
-Confirmed square-law relationship in saturation (linear √ID vs VGS).
-
-Demonstrated log-linear behavior in subthreshold region.
-
-Learned to interpret raw Ngspice waveforms for device-level analysis
 
 
 
