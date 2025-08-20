@@ -35,9 +35,11 @@ This section explains the analog front-end of a USB microphone setup and its rol
 **Simple RC High Pass Filter**
 <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/eddaec06-abe6-40b5-b966-4f34ede7764d" />
 **Current Mirror Circuit**
-<img width="1693" height="880" alt="image" src="https://github.com/user-attachments/assets/e81cdba8-92b0-4e5a-9a1a-b288d15e9465" />
+<img width="1786" height="941" alt="image" src="https://github.com/user-attachments/assets/d28ca47c-92a1-4ea7-be8e-1d194279798d" />
+
 **Small Signal Analysis**
 <img width="1896" height="876" alt="image" src="https://github.com/user-attachments/assets/c8eebe85-efad-4e14-b0c6-00661968001f" />
+
 
 
 
